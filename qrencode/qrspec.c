@@ -1,6 +1,7 @@
 /*
  * qrencode - QR Code encoder
  *
+ * QR Code specification in convenient format. 
  * Copyright (C) 2006-2011 Kentaro Fukuchi <kentaro@fukuchi.org>
  *
  * The following data / specifications are taken from
